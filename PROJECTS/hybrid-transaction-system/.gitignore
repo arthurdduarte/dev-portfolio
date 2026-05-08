@@ -1,0 +1,22 @@
+# binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# logs
+*.log
+
+# env files
+.env
+
+# vscode
+.vscode/
+
+# temporary
+tmp/
+temp/
+
+# OS
+.DS_Store
+Thumbs.db
